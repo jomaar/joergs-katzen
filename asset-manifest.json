@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/joergs-katzen/static/css/main.44d79ee7.chunk.css",
+    "main.js": "/joergs-katzen/static/js/main.5bbf3ed6.chunk.js",
+    "main.js.map": "/joergs-katzen/static/js/main.5bbf3ed6.chunk.js.map",
+    "runtime-main.js": "/joergs-katzen/static/js/runtime-main.fc0fb010.js",
+    "runtime-main.js.map": "/joergs-katzen/static/js/runtime-main.fc0fb010.js.map",
+    "static/js/2.12dc0d94.chunk.js": "/joergs-katzen/static/js/2.12dc0d94.chunk.js",
+    "static/js/2.12dc0d94.chunk.js.map": "/joergs-katzen/static/js/2.12dc0d94.chunk.js.map",
+    "index.html": "/joergs-katzen/index.html",
+    "precache-manifest.b7875043ae7f913864dbbcc10f6eec25.js": "/joergs-katzen/precache-manifest.b7875043ae7f913864dbbcc10f6eec25.js",
+    "service-worker.js": "/joergs-katzen/service-worker.js",
+    "static/css/main.44d79ee7.chunk.css.map": "/joergs-katzen/static/css/main.44d79ee7.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc0fb010.js",
+    "static/js/2.12dc0d94.chunk.js",
+    "static/css/main.44d79ee7.chunk.css",
+    "static/js/main.5bbf3ed6.chunk.js"
+  ]
+}
